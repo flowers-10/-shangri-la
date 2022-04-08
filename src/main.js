@@ -97,7 +97,7 @@ Vue.use(Popup);
 Vue.use(VanImage);
 Vue.use(Button);
 Vue.config.productionTip = false
-axios.defaults.baseURL='http://localhost:3000'
+axios.defaults.baseURL='http://124.223.168.27:8887'
 Vue.prototype.axios=axios
 Vue.use(Swipe);
 Vue.use(SwipeItem);
